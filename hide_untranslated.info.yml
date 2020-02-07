@@ -1,0 +1,5 @@
+name: Hide Untranslated
+type: module
+description: 'Hide untranslated nodes: fixes menu links, views listings etc.'
+package: Custom
+core: 8.x
